@@ -1,0 +1,32 @@
+header{
+    border: 2px black solid;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 50px;
+}
+
+.container{
+    border: 2px black solid;
+    background: red;
+    color: white;    
+    height: 800px;
+}
+
+footer{
+    border: 2px black solid;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 50px;
+}
+
+#site-title{
+    text-align: center;
+}
+
+#site-description{
+    text-align: center;
+}
+
+#main-content{
+    text-align: center;
+}
